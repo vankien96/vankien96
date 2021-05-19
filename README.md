@@ -10,3 +10,4 @@
 ```
 There is no reasonable excuse for doing anything less than your best
 ```
+- My Medium Page: https://truongvankien.medium.com/
